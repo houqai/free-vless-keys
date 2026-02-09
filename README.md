@@ -1,17 +1,17 @@
 # 🚀 DuckRay Free VPN - Daily Keys
 
-**Updated:** `2026-02-06 21:00:00 UTC`
+**Updated:** `2026-02-09 00:21:07 UTC`
 
 Join our [Telegram Channel](https://t.me/duckray) for updates!
 
 > ℹ️ **Daily updated direct keys with 500GB traffic limit. Recreated every midnight.**
 
 ## 🗝️ Manual Configurations
-Copy and paste these into your VPN client (V2Ray, Nekoray, etc.):
+Copy and paste these into your VPN client:
 
 ### 🇫🇷 France 🐓
 ```
-vless://0e3a6d9c-8008-4c83-96e5-d723486200e3@es-01.duckray.cv:443?security=reality&type=grpc&headerType=&authority=&serviceName=gun-or-multi&flow=&mode=multi&sni=api.github.com&fp=chrome&pbk=0vFAS6VoMwjNIdKHk4_wcAgCaz-NWScSxJLSpqguFzc&sid=#%F0%9F%87%AB%F0%9F%87%B7%20France%20%F0%9F%90%93
+vless://1b9a8f7c-1f20-4522-9ab6-8b9c14bcba51@es-01.duckray.cv:443?security=reality&type=grpc&headerType=&authority=&serviceName=gun-or-multi&flow=&mode=multi&sni=api.github.com&fp=chrome&pbk=0vFAS6VoMwjNIdKHk4_wcAgCaz-NWScSxJLSpqguFzc&sid=#%F0%9F%87%AB%F0%9F%87%B7%20France%20%F0%9F%90%93
 ```
 
 
